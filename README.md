@@ -6,25 +6,25 @@
 
  roles:-
  
-  main
+**main**
   
           tasks/main.yml
    
-  php
+  **php**
   
-   tasks/main.yml
+          tasks/main.yml
    
-  mysql
+  **mysql**
   
-   defaults/main.yml
+          defaults/main.yml
    
-   tasks/main.yml
+          tasks/main.yml
    
-  wordpress
+  **wordpress**
   
-   tasks/main.yml
+         tasks/main.yml
    
-   handlers/main.yml
+         handlers/main.yml
         
 
 - create hosts file in your current directory:-
